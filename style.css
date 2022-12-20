@@ -1,0 +1,34 @@
+
+center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+/* Style buttons */
+btn {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+btn:hover {
+  background-color: black;
+}
+
+body {
+  background-color: black ;
+  
+} 
+
+h2{    color: verdana ;}
+
+p{
+  text-color: blue ;
+  color: white;
+  
+}
